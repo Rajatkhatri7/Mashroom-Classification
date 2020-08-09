@@ -17,7 +17,7 @@ st.image(image, caption = ' ', use_column_width = True)
 st.title("Binary Classification Web App")
 st.sidebar.title("Binary Classification Web App")
 st.markdown("## Are your mushrooms edible or poisonous? 🍄")
-st.markdown("##### Created By Joseff Tan - [GitHub](https://github.com/rajatkhatri7/MASHROOM-CLASSIFICATION)")
+st.markdown("##### Created By Rajat Khatri - [GitHub](https://github.com/rajatkhatri7/MASHROOM-CLASSIFICATION)")
 st.sidebar.markdown("Are your mushrooms edible or poisonous? 🍄")
 
 st.sidebar.header('User Input Features')
